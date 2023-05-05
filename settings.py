@@ -1,2 +1,2 @@
-url = "https://www.mercadolibre.com/"
+url = "https://automationintesting.online/"
 browser = "chrome"
