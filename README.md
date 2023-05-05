@@ -1,14 +1,14 @@
-## 👋 End-to-End Automation Testing with Pytest & Selenium
+##  End-to-End Automation Testing with Pytest & Selenium
 
 Multi-browser framework for End-to-End Automation Testing with PyTest-Selenium and Page Object Model.
 The test examples were performed in the "Mercadolibre" website which is an online market similar to ebay.
 
-## ✨ Pre-requisites:
+##  Pre-requisites:
 
 - Python3
 - At least one of these browsers installed [Chrome, Firefox]
 
-## 🔨 Running the project:
+## Running the project:
 
 1. Clone the repo
 2. Install dependencies from requirements file.
